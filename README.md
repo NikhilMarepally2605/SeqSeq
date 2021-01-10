@@ -1,1 +1,1 @@
-# SeqSeq
+# SeqSeqEncoder - Decoder
